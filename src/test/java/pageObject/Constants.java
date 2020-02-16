@@ -2,6 +2,7 @@ package pageObject;
 
 public class Constants {
 	
-	static String username="pardeshirohit080294@gmail.com";
-	static String password="Test123";
+	public static String username="pardeshirohit080294@gmail.com";
+	public static String password="Test123";
+	public static String siteURL="http://newtours.demoaut.com/";
 }
